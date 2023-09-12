@@ -1,0 +1,14 @@
+##Eclipse##
+Install New Software >> [select Luna release]
+
+Web, XML, Java EE and OSGi Enterprise Development	
+    Eclipse Java EE Developer Tools
+    Eclipse Java Web Developer Tools
+    Eclipse Web Developer Tools
+    JST Server Adapters
+    JST Server Adapters Extensions
+    WST Server Adapters
+
+##Tomcat##
+https://tomcat.apache.org/download-10.cgi
+select the latest 10.0.XX appropriate for you system

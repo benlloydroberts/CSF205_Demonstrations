@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ikea>
+    <products>
+        <product sku="0001">
+            <name>Billy</name>
+            <colours>
+                <colour>White</colour>
+            </colours>
+            <size>Big</size>
+            <price>100</price>
+        </product>
+    </products>
+</ikea>

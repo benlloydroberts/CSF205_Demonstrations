@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+    <Book id="isbn_9780261103573">
+        <Title>The Fellowship of the Ring - The Lord of the Rings Book 1</Title>
+        <Author>J. R. R. Tolkien</Author>
+        <Date>1997</Date>
+        <Publisher>HarperCollins Publishers</Publisher>
+    </Book>
+    <Book id="isbn_9780140447934">
+        <Title>War And Peace</Title>
+        <Author>Leo Tolstoy</Author>
+        <Date>2007</Date>
+        <Publisher>Penguin Books Ltd</Publisher>
+    </Book>
+</Books>
