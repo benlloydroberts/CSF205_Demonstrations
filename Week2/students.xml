@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>​
+
+<students>​
+ <student>​
+    <name>abc</name>​
+    <marks>​
+      <subject name="physics" mark="53"/>​
+      <subject name="chemistry" mark="65"/>​
+    </marks>​
+</student>​
+<student>​
+    <name>xyz</name>​
+    <marks>​
+      <subject name="physics" mark="73"/>​
+      <subject name="chemistry" mark="76"/>​
+    </marks>​
+</student>​
+</students>​
+
+​

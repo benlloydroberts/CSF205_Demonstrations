@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>​
+<students>​
+ <student c1="abc" c2="physics" c3="53"/>​
+ <student c1="abc" c2="chemistry" c3="65"/>​
+ <student c1="xyz" c2="physics" c3="73"/>​
+ <student c1="xyz" c2="chemistry" c3="76"/>​
+</students>
