@@ -5,7 +5,7 @@ import jakarta.jws.WebService;
 
 /**
  *  The @WebService property endpointInterface links the
- *  SIB (this class) to the SEI (ch01.ts.TimeServer).
+ *  SIB (this class) to the SEI (timeServer.TimeServer).
  *  Note that the method implementations are not annotated
  *  as @WebMethods.
 */
