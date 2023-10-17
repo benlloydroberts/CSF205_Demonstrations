@@ -10,18 +10,18 @@ Index,User Id,First Name,Last Name,Sex,Email,Phone,Date of birth,Job Title
 9,baDcC4DeefD8dEB,Dave,Farrell,Male,nmccann@example.net,603-428-2429x27392,2018-10-06,Lawyer
 10,8e4FB470FE19bF0,Isaiah,Downs,Male,virginiaterrell@example.org,+1-511-372-1544x8206,1964-09-20,Engineer
 11,BF0BbA03C29Bb3b,Sheila,Ross,Female,huangcathy@example.com,895.881.4746,2008-03-20,Advertising account executive
-12,F738c69fB34E62E,Stacy,Newton,Male,rayleroy@example.org,710.673.3213x80335,1980-10-20,Warden/ranger
+12,F738c69fB34E62E,Stacy,Newton,Male,rayleroy@example.org,710.673.3213x80335,1980-10-20,Warden
 13,C03fDADdAadAdCe,Mandy,Blake,Male,jefferynoble@example.org,(992)466-1305x4947,2007-12-08,Scientist (clinical)
 14,b759b74BD1dE80d,Bridget,Nash,Female,mercedes44@example.com,(216)627-8359,2004-06-28,Social worker
 15,1F0B7D65A00DAF9,Crystal,Farmer,Male,pmiranda@example.org,+1-024-377-5391,1992-03-09,Agricultural consultant
 16,50Bb061cB30B461,Thomas,Knight,Female,braunpriscilla@example.net,+1-360-880-0766,2006-02-18,Sport and exercise psychologist
-17,D6dbA5308fEC4BC,Maurice,Rangel,Male,sheenabanks@example.com,(246)187-4969,2004-08-20,Secretary/administrator
+17,D6dbA5308fEC4BC,Maurice,Rangel,Male,sheenabanks@example.com,(246)187-4969,2004-08-20,Secretary (administrator)
 18,311D775990f066d,Frank,Meadows,Male,gbrewer@example.org,429.965.3902x4447,2008-09-16,Audiological scientist
 19,7F7E1BAcb0C9AFf,Alvin,Paul,Male,gilbertdonaldson@example.com,219.436.0887x07551,1949-05-12,Teacher
 20,88473e15D5c3cD0,Jared,Mitchell,Female,jcortez@example.com,+1-958-849-6781,1921-01-18,Paediatric nurse
 21,b31D271F8c200AB,Jacqueline,Norton,Female,carias@example.net,819.309.7679x59173,1952-10-09,Scientist (marine)
 22,42F4BdA841aBadC,Colleen,Hatfield,Female,fknox@example.org,638.584.1090,1949-10-14,Commercial horticulturist
-23,cBbBcA0FCA3C4Bc,Randy,Barnes,Male,huangbill@example.org,001-960-629-7164x67214,1947-12-30,Outdoor activities/education manager
+23,cBbBcA0FCA3C4Bc,Randy,Barnes,Male,huangbill@example.org,001-960-629-7164x67214,1947-12-30,Outdoor activities
 24,f1f89173353aD90,Janice,Rhodes,Female,juarezdominique@example.net,001-249-314-9742x6996,1999-11-01,Drilling engineer
 25,c5B09fb33e8bA0A,Alfred,Mcneil,Female,cassandramorris@example.com,(468)276-9509x53058,1993-05-28,Systems analyst
 26,c9F2282C40BEC1E,Sean,Levine,Male,sallymiller@example.net,4915828504,2010-10-09,Conservation officer
@@ -85,7 +85,7 @@ Index,User Id,First Name,Last Name,Sex,Email,Phone,Date of birth,Job Title
 84,bff9853aFAeF772,Douglas,Reese,Female,nixonvanessa@example.net,001-834-660-8312x9864,1961-11-11,Higher education lecturer
 85,E883773cA5219Be,Helen,Williamson,Female,melvin08@example.net,001-377-726-4229,1911-08-11,Lecturer (further education)
 86,CB19EafEbBfF9eC,Mario,Vaughn,Male,oblake@example.com,160-144-5039x12276,1990-07-08,Research scientist (life sciences)
-87,5834700fbEd2771,Chelsea,Dickson,Male,johnnyhendricks@example.net,001-698-651-0138x18588,1958-05-13,(Teacher, early years/pre)
+87,5834700fbEd2771,Chelsea,Dickson,Male,johnnyhendricks@example.net,001-698-651-0138x18588,1958-05-13,Teacher (early years/pre)
 88,2b0Ab1Dc9E01D7E,Dustin,Bailey,Male,pbarron@example.net,+1-965-621-1157x345,1908-08-22,Travel agency manager
 89,3f3a3D89ad042Dd,Harry,Medina,Female,olsenmalik@example.net,+1-451-099-5805,1947-08-24,Technical sales engineer
 90,9425E2F38C408ef,Kathy,Haney,Female,teresa37@example.com,(164)105-8456,1955-09-02,Charity fundraiser
