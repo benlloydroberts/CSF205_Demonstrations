@@ -1,0 +1,26 @@
+<person>
+  <name>John Doe</name>
+  <age>30</age>
+  <isStudent>false</isStudent>
+  <address>
+    <street>123 Main St</street>
+    <city>Sampleville</city>
+    <zipCode>12345</zipCode>
+  </address>
+  <hobbies>
+    <hobby>reading</hobby>
+    <hobby>swimming</hobby>
+    <hobby>cooking</hobby>
+  </hobbies>
+  <friends>
+    <friend>
+      <name>Alice</name>
+      <age>28</age>
+    </friend>
+    <friend>
+      <name>Bob</name>
+      <age>32</age>
+    </friend>
+  </friends>
+  <preferences>null</preferences>
+</person>

@@ -1,0 +1,24 @@
+{
+  "person": {
+    "name": "John Doe",
+    "age": 30,
+    "isStudent": false,
+    "address": {
+      "street": "123 Main St",
+      "city": "Sampleville",
+      "zipCode": 12345
+    },
+    "hobbies": ["reading", "swimming", "cooking"],
+    "friends": [
+      {
+        "name": "Alice",
+        "age": 28
+      },
+      {
+        "name": "Bob",
+        "age": 32
+      }
+    ],
+    "preferences": null
+  }
+}
