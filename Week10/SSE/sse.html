@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSE Example - Chat</title>
+</head>
+<body>
+
+<div id="chat-container">
+    <ul id="messages-list">
+    </ul>
+</div>
+
+<script>
+    const messagesList = document.getElementById('messages-list');
+
+    // Function to add a new message to the list
+    function addMessage(message) {
+        const li = document.createElement('li');
+        li.textContent = message;
+        messagesList.appendChild(li);
+    }
+
+    // Establish SSE connection
+    const eventSource = new EventSource('/sse-endpoint');
+
+    // Event listener for incoming messages
+    eventSource.addEventListener('message', function (event) {
+        const message = event.data;
+        addMessage(message);
+    });
+
+    // Event listener for SSE errors
+    eventSource.addEventListener('error', function (event) {
+        console.error('SSE Error:', event);
+    });
+</script>
+
+</body>
+</html>
