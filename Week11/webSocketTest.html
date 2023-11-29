@@ -9,7 +9,7 @@
 
 	function startSession()
 	{
-		socket = new WebSocket("ws://localhost:8080/WebSocketDemo/echo");   
+		socket = new WebSocket("ws://localhost:8080/{project_name}/echo");   
 	    socket.onmessage = onSocketMessage;
 	}
 	
